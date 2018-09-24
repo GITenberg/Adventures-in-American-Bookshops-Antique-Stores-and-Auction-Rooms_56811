@@ -1,0 +1,22 @@
+_repo: Adventures-in-American-Bookshops-Antique-Stores-and-Auction-Rooms_56811
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bruno, Guido
+    birthdate: 1884
+    deathdate: 1942
+    gutenberg_agent_id: '41455'
+    url: http://www.gutenberg.org/2009/agents/41455
+description: ''
+gutenberg_issued: '2018-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56811'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Adventures in American Bookshops, Antique Stores and Auction Rooms
+url: http://www.gutenberg.org/ebooks/56811
